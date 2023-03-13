@@ -7,12 +7,12 @@
  * @package           kh_Post_Cars
  *
  * @wordpress-plugin
- * Plugin Name:       bizoula
+ * Plugin Name:       Kh-Cars-Cpt
  * Plugin URI:        http://khalid.com/
  * Description:       A plugin with a custom post type called Cars. The Custom post type will be storing data about cars
  * Version:           1.0.0
- * Author:            Ocen Chris
- * Author URI:        http://ocenchris.com/
+ * Author:            Khalid Boutam
+ * Author URI:        http://Web-pro.store/
  * License:           GPL-2.0+
  * License URI:       http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain:       kh-post-cars
