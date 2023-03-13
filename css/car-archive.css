@@ -1,0 +1,32 @@
+.car-post {
+    text-align: center;
+    margin-bottom: 30px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+.car-post a {
+    text-decoration: none;
+}
+.car-post h2 {
+    margin-top: 10px;
+    margin-bottom: 0;
+    font-size: 20px;
+    line-height: 1.2;
+    color: #333;
+}
+.car-post img {
+    max-width: 100%;
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+}
+.row {
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.col-md-4 {
+    padding-left: 10px;
+    padding-right: 10px;
+}
